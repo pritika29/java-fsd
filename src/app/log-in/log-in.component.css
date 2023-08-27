@@ -1,0 +1,21 @@
+.login
+{
+    background-color: rgb(213, 201, 224);
+    padding: 140px 100px;
+}
+.login
+{
+    background-color: rgb(243, 166, 167);
+    padding: 20px 30px;
+}
+
+@media screen and (max-width:600px)
+{
+
+    .joinnow
+{
+    padding: 140px 30px;
+}
+}
+
+
